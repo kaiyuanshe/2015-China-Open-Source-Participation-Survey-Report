@@ -236,3 +236,149 @@
   + 活动组织
   + 媒体
   + 其他
+
+## 第四部分 开源社区开发者技术调查（共15题）
+* 4.1 您在开源过程中经常使用到的开发语言是？（可多选）
+  + Objective-C
+  + Node.js
+  + C#
+  + C++
+  + C
+  + SQL
+  + Ruby
+  + JavaScript
+  + Java
+  + Python
+  + PHP
+  + HTML5
+  + Perl
+  + Rust
+  + Go
+  + Scala
+  + Lisp
+  + Erlang
+  + 其他
+* 4.2 您经常使用的Java开发框架（请最多选择三个，可不作答）
+  + Spring
+  + Nutz
+  + Shell
+  + JFinal
+  + Play Framework
+  + Struts siteMesh
+  + Argo
+  + Jsp layout
+  + Apache click
+  + 其他
+* 4.3 您经常使用的Ruby开发框架（请最多选择三个，可不作答）
+  + Rails
+  + Rack
+  + Padrino
+  + Joosy
+  + TrailBlazer
+  + 其他
+* 4.4 您经常使用的PHP开发框架（请最多选择三个，可不作答）
+  + ThinkPHP
+  + Yii
+  + CakePHP
+  + Zend Framework
+  + Phalcon
+  + Laravel yaf
+  + 其他
+* 4.5 您经常使用的Go开发框架（请最多选择三个，可不作答）
+  + Beego
+  + Martini
+  + Revel
+  + Tango
+  + KiteQ
+  + Web.Go
+  + Golanger
+  + 其他
+* 4.6 您经常使用的Node.js开发框架（请最多选择三个，可不作答）
+  + Koa
+  + Sails.js
+  + Kraken
+  + Thinkjs
+  + Hapi.js
+  + 其他
+* 4.7 您经常使用的Python开发框架（请最多选择三个，可不作答）
+  + Django
+  + Flask
+  + Tornado
+  + Uliweb
+  + Bottle
+  + Greenev
+  + Web2py
+  + 其他
+* 4.8 您经常使用的前端开发框架（请最多选择三个，可不作答）
+  + Amaze UI
+  + Bootstrap
+  + JQuery
+  + AngularJS
+  + Semantic UI
+  + 网易前端JS框架 NEJ
+  + 腾讯Web前端框架库 JX
+  + HTML5前端UI框架 ZUI
+  + Furatto
+  + B-JUI（Best JQuery UI）前端框架
+  + Pro腾讯移动Web前端框架
+  + 其他
+* 4.9 您经常使用的开源CMS建站系统（请最多选择三个，可不作答）
+  + Drupal
+  + WordPress
+  + Joomla
+  + mangental
+  + Cody
+  + Apostrophe
+  + 其他
+* 4.10 您经常使用的开源电子商务建站系统（可多选，可不作答）
+  + Magento
+  + OFBiz
+  + Makingware
+  + 其他
+* 4.11 您经常使用的编辑器是？
+  + notepad++
+  + Sublime text
+  + vim
+  + emacs
+  + atom.io
+  + textmate
+  + xemacs
+  + others
+  + 其他，请补充
+* 4.12 您经常使用的版本控制工具
+  + Git
+  + SVN
+  + CVS
+  + Mecurial
+  + TFS
+  + Perforce
+  + 其他，请补充
+  + 没使用过
+* 4.13 您经常使用的数据库（请最多选择三个）
+  + Apache Cassandra
+  + Leveldb
+  + Tair
+  + Apache CouchDB
+  + MongoDB
+  + SequoiaDB
+  + BeansDB
+  + MySQL
+  + MariaDB
+  + PostgreSQL
+  + Oracle
+  + DB2
+  + SQL Server
+  + 其他，请补充
+* 4.14 您经常使用的操作系统
+  + Windows
+  + Mac OS X
+  + Linux
+  + Other
+* 4.15 您经常使用的Linux发行版本
+  + Ubuntu
+  + Debian
+  + OpenSUSE
+  + Mint
+  + RedHat
+  + Fedora
+  + Other
