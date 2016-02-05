@@ -7,6 +7,7 @@
 ## 结构
 + [questionnaire][questionnaire]: 含有问卷的markdown文件，欢迎大家提出修改建议和意见。
 + [raw-data][raw-data]: 含有调查的完整数据，包含完整数据和总体数据概览。该文件夹不接受PR。
++ [report][report]: 报告的PDF文件。
 
 
 # 2015 China Open Source Participation Survey Report
@@ -18,6 +19,8 @@
 ## Structure
 + [questionnaire][questionnaire]: contains the questionnaire file with markdown format. 
 + [raw-data][raw-data]: contains all data of the survey, include detail and general data. PRs of this folder are not accpeted.
++ [report][report]: PDF file of the report.
 
 [questionnaire]: questionnaire/
 [raw-data]: raw-data/
+[report]: report/
